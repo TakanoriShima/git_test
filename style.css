@@ -4,6 +4,7 @@ h1{
 }
 li{
     color: blue;
+    list-style-type: none;
 }
 ul{
     list-style-type: none;
